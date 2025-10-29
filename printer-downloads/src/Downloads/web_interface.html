@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impressoras Térmicas - Downloads</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .search-container {
+            padding: 20px;
+            background: #f8f9fa;
+            border-bottom: 1px solid #e9ecef;
+        }
+        
+        .search-box {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            outline: none;
+            transition: border-color 0.3s;
+        }
+        
+        .search-box:focus {
+            border-color: #667eea;
+        }
+        
+        .content {
+            padding: 20px;
+            max-height: 70vh;
+            overflow-y: auto;
+        }
+        
+        .brand-section {
+            margin-bottom: 30px;
+            border: 1px solid #e9ecef;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+        
+        .brand-header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 20px;
+            font-size: 1.3em;
+            font-weight: bold;
+        }
+        
+        .printer-item {
+            padding: 15px 20px;
+            border-bottom: 1px solid #f0f0f0;
+            transition: background-color 0.3s;
+        }
+        
+        .printer-item:hover {
+            background-color: #f8f9fa;
+        }
+        
+        .printer-item:last-child {
+            border-bottom: none;
+        }
+        
+        .printer-name {
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+        
+        .printer-version {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+        
+        .download-links {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .download-btn {
+            background: linear-gradient(135deg, #28a745 0%, #20c997 100%);
+            color: white;
+            padding: 8px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 0.9em;
+            transition: transform 0.2s, box-shadow 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(40, 167, 69, 0.3);
+        }
+        
+        .download-btn.manual {
+            background: linear-gradient(135deg, #007bff 0%, #0056b3 100%);
+        }
+        
+        .download-btn.utility {
+            background: linear-gradient(135deg, #ffc107 0%, #e0a800 100%);
+            color: #212529;
+        }
+        
+        .copy-btn {
+            background: linear-gradient(135deg, #6c757d 0%, #495057 100%);
+            margin-left: 5px;
+            padding: 6px 10px;
+            font-size: 0.8em;
+        }
+        
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: #28a745;
+            color: white;
+            padding: 15px 20px;
+            border-radius: 5px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            transform: translateX(400px);
+            transition: transform 0.3s;
+            z-index: 1000;
+        }
+        
+        .toast.show {
+            transform: translateX(0);
+        }
+        
+        .hidden {
+            display: none;
+        }
+        
+        @media (max-width: 768px) {
+            .download-links {
+                flex-direction: column;
+            }
+            
+            .download-btn {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🖨️ Impressoras Térmicas</h1>
+            <p>Sistema de Downloads com Links Locais</p>
+        </div>
+        
+        <div class="search-container">
+            <input type="text" class="search-box" placeholder="🔍 Pesquisar por marca ou modelo..." id="searchInput">
+        </div>
+        
+        <div class="content" id="content">
+            <!-- Conteúdo será carregado via JavaScript -->
+        </div>
+    </div>
+    
+    <div class="toast" id="toast">
+        Link copiado para a área de transferência! 📋
+    </div>
+
+    <script>
+        // Dados dos drivers (será carregado do JSON)
+        let driversData = [];
+        
+        // Função para carregar dados do JSON
+        async function loadDriversData() {
+            try {
+                const response = await fetch('./drivers_local.json');
+                driversData = await response.json();
+                renderContent();
+            } catch (error) {
+                console.error('Erro ao carregar dados:', error);
+                // Fallback com dados de exemplo
+                loadFallbackData();
+            }
+        }
+        
+        // Dados de fallback caso não consiga carregar o JSON
+        function loadFallbackData() {
+            driversData = [
+                {
+                    "brand": "Bematech",
+                    "model": "MP-4200 TH",
+                    "version": "4.4.0.3",
+                    "files": [
+                        {
+                            "name": "BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+                            "type": "driver",
+                            "path": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe"
+                        }
+                    ]
+                }
+            ];
+            renderContent();
+        }
+        
+        // Função para renderizar o conteúdo
+        function renderContent(filteredData = null) {
+            const content = document.getElementById('content');
+            const data = filteredData || driversData;
+            
+            // Agrupar por marca
+            const brandGroups = {};
+            data.forEach(item => {
+                if (!brandGroups[item.brand]) {
+                    brandGroups[item.brand] = [];
+                }
+                brandGroups[item.brand].push(item);
+            });
+            
+            let html = '';
+            
+            Object.keys(brandGroups).sort().forEach(brand => {
+                html += `
+                    <div class="brand-section">
+                        <div class="brand-header">${brand}</div>
+                `;
+                
+                brandGroups[brand].forEach(printer => {
+                    html += `
+                        <div class="printer-item">
+                            <div class="printer-name">${printer.model}</div>
+                            <div class="printer-version">Versão: ${printer.version}</div>
+                            <div class="download-links">
+                    `;
+                    
+                    printer.files.forEach(file => {
+                        const btnClass = file.type === 'manual' ? 'manual' : 
+                                        file.type === 'utility' ? 'utility' : '';
+                        const icon = file.type === 'manual' ? '📖' : 
+                                   file.type === 'utility' ? '🔧' : '💾';
+                        
+                        html += `
+                            <a href="${file.path}" class="download-btn ${btnClass}">
+                                ${icon} ${file.name}
+                            </a>
+                            <button class="download-btn copy-btn" onclick="copyToClipboard('${file.path}')">
+                                📋 Copiar Link
+                            </button>
+                        `;
+                    });
+                    
+                    html += `
+                            </div>
+                        </div>
+                    `;
+                });
+                
+                html += `</div>`;
+            });
+            
+            content.innerHTML = html;
+        }
+        
+        // Função para copiar link para área de transferência
+        function copyToClipboard(text) {
+            navigator.clipboard.writeText(text).then(() => {
+                showToast();
+            }).catch(err => {
+                console.error('Erro ao copiar:', err);
+                // Fallback para navegadores mais antigos
+                const textArea = document.createElement('textarea');
+                textArea.value = text;
+                document.body.appendChild(textArea);
+                textArea.select();
+                document.execCommand('copy');
+                document.body.removeChild(textArea);
+                showToast();
+            });
+        }
+        
+        // Função para mostrar toast de confirmação
+        function showToast() {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 3000);
+        }
+        
+        // Função de pesquisa
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase();
+                
+                if (searchTerm === '') {
+                    renderContent();
+                    return;
+                }
+                
+                const filteredData = driversData.filter(item => 
+                    item.brand.toLowerCase().includes(searchTerm) ||
+                    item.model.toLowerCase().includes(searchTerm) ||
+                    item.files.some(file => file.name.toLowerCase().includes(searchTerm))
+                );
+                
+                renderContent(filteredData);
+            });
+        }
+        
+        // Inicializar aplicação
+        document.addEventListener('DOMContentLoaded', () => {
+            loadDriversData();
+            setupSearch();
+        });
+    </script>
+</body>
+</html>

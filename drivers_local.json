@@ -1,0 +1,619 @@
+{
+  "printers": {
+    "Argox": [
+      {
+        "modelo": "PrinterDrivers",
+        "versao": "2022.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Argox/Argox_PrinterDrivers_v2022.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Bematech": [
+      {
+        "modelo": "LR-1100/LR-2000",
+        "versao": "4.2.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Bematech/BemaSetup_LR_x32_v4.2.1.exe",
+          "driver_x64": "/Downloads/Bematech/BemaSetup_LR_x64_v4.2.1.exe",
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": "/Downloads/Manuals/Bematech_LR1100_Manual.pdf"
+        }
+      },
+      {
+        "modelo": "MP-4200-HS",
+        "versao": "1.7.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Bematech/Bematech MP-4200-HS_Driver_v1.7.7.exe",
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SpoolerDrivers x64",
+        "versao": "6.0.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "SpoolerDrivers x86",
+        "versao": "6.0.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+          "driver_x64": null,
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "MP Series (Spooler)",
+        "versao": "1.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "USB COM Driver",
+        "versao": "4.0.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Bematech/Bematech_USBCOM_v4.0.2.exe",
+          "utility": "/Downloads/Utilities/Bematech_LR_IP_setting.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Daruma": [
+      {
+        "modelo": "DR700/FS700",
+        "versao": "4.0.3.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+          "utility": "/Downloads/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "/Downloads/Manuals/Daruma DR700.pdf"
+        }
+      },
+      {
+        "modelo": "DR800/FS800",
+        "versao": "2.0.1.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+          "utility": "/Downloads/Utilities/Daruma_Utility_v2.20.9.exe",
+          "manual": "/Downloads/Manuals/Daruma DR800.pdf"
+        }
+      }
+    ],
+    "Dascom": [
+      {
+        "modelo": "DT DT",
+        "versao": "1.0.0.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Diebold": [
+      {
+        "modelo": "IM113ID",
+        "versao": "1.2.0.10",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Diebold/Diebold_IM113ID_v1.2.0.10_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "IM903TT",
+        "versao": "1.0.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Diebold/Diebold_IM903TT_1.0.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "Diebold Printers",
+        "versao": "1.34",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Dimep": [
+      {
+        "modelo": "D PRINT",
+        "versao": "2.1.4.4",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Dimep/Dimep_D-PRINT_DUAL_v2.1.4.4.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Elgin": [
+      {
+        "modelo": "i7/i9",
+        "versao": "1.7.3",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/Elgin_i7_i9_v1.7.3.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "i8",
+        "versao": "7.1.7",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/Elgin_i8_v7.1.7.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "iX",
+        "versao": "1.02",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/Elgin_iX_v1.02.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "NIX",
+        "versao": "2.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/Elgin_NIX_Driver_v2.3.0.0.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "VOX",
+        "versao": "1.25",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/Elgin_VOX_V1.25.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": "/Downloads/Manuals/Elgin VOX+.pdf"
+        }
+      },
+      {
+        "modelo": "Serial Driver",
+        "versao": "1.12.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/PL2303_Driver_v1.12.0.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "PL23XX",
+        "versao": "4.0.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Elgin/PL23XX_Driver_v4.0.2.exe",
+          "utility": "/Downloads/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Epson": [
+      {
+        "modelo": "TM-20X-II",
+        "versao": "6.9.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-20X-II_Driver_v6.9.1.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-70II",
+        "versao": "4.6.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-70II_Driver_v4.6.0.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T20X",
+        "versao": "6.1.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T20X_v6.1.0.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T20",
+        "versao": "5.6.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T20_v5.6.0.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T81",
+        "versao": "15.0.0.498",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T81_v15.0.0.498.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88III",
+        "versao": "-",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T88_III_v4.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88V",
+        "versao": "5.6.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T88_III_VirtualPort.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88VII",
+        "versao": "6.7.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TM-T88VI",
+        "versao": "5.11.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Epson/Epson_TM-T88_VI_v5.11.0.0.exe",
+          "utility": "/Downloads/Utilities/Epson_NetConfig_v4_9_5.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Evadin": [],
+    "Feasso": [
+      {
+        "modelo": "F IMTER",
+        "versao": "2.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Feasso/Feasso_F-IMTER-01_Driver_v1.7.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Gainscha": [
+      {
+        "modelo": "GPrinterDrivers",
+        "versao": "2020.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Gainscha/Gainscha_GPrinterDrivers_v2020.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Gertec": [
+      {
+        "modelo": "G250 VCOM",
+        "versao": "1.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Gertec/Driver-G250-Spooler_VCOM-v1.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Jetway": [
+      {
+        "modelo": "JMP-100",
+        "versao": "2.61",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Jetway/Jetway_JMP-100_Driver_v2.61J.exe",
+          "utility": "/Downloads/Utilities/Jetway_JP-500_Driver_USB_Serial.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "JP-500",
+        "versao": "7.17",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe",
+          "utility": "/Downloads/Utilities/Jetway_JP-500_Driver_USB_Serial.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "JP-800",
+        "versao": "2.38",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe",
+          "utility": "/Downloads/Utilities/Jetway_JP-500_Driver_USB_Serial.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Ledtec": [
+      {
+        "modelo": "ENGWORKSPrinters Win8",
+        "versao": "-",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Ledtec/ENGWORKSPrinters_Win8_10_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "ENGWORKS Printers",
+        "versao": "-",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Ledtec/ENGWORKS_Printers_Win8_10_x86.exe",
+          "driver_x64": "/Downloads/Ledtec/ENGWORKS_Printers_Win7_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Menno": [
+      {
+        "modelo": "Printer",
+        "versao": "2.52",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Menno/Menno_Printer_Driver_v2.52.exe",
+          "utility": "/Downloads/Utilities/Menno_PrinterTool_v1.56.exe",
+          "manual": null
+        }
+      }
+    ],
+    "POS": [
+      {
+        "modelo": "Printer",
+        "versao": "11.3.0.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+          "utility": "/Downloads/Utilities/POS_Utilities.exe",
+          "manual": null
+        }
+      }
+    ],
+    "PertoPrinter": [
+      {
+        "modelo": "Todos os modelos",
+        "versao": "2.5",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/PertoPrinter/PertoPrinter_Driver_2.5.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "PrintID": [
+      {
+        "modelo": "Print iD",
+        "versao": "1.1.10.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+          "utility": "/Downloads/Utilities/PrintID_Utility_v1.0.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Star": [
+      {
+        "modelo": "BSC10",
+        "versao": "2.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Star/Star_BSC10_Drivers_v2.1_x86.exe",
+          "driver_x64": "/Downloads/Star/Star_BSC10_Drivers_v2.1_x64.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TSP043",
+        "versao": "2.1",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Star/Star_PrinterDrivers_TSP043_x86_v2.1.exe",
+          "driver_x64": "/Downloads/Star/Star_PrinterDrivers_TSP043_x64_v2.1.exe",
+          "utility": null,
+          "manual": null
+        }
+      },
+      {
+        "modelo": "Star Printers",
+        "versao": "3.7.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": "/Downloads/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+          "driver_x64": "/Downloads/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+          "utility": null,
+          "manual": null
+        }
+      }
+    ],
+    "Sweda": [
+      {
+        "modelo": "SI SI",
+        "versao": "1.2.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+          "utility": "/Downloads/Utilities/Sweda_Utility_v1.524.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Tanca": [
+      {
+        "modelo": "TMP-500",
+        "versao": "2.61",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Tanca/Tanca_TMP-500_v2.61T.exe",
+          "utility": "/Downloads/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TP-450",
+        "versao": "2.29",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Tanca/Tanca_TP-450_Driver_v2.29E.exe",
+          "utility": "/Downloads/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TP-509",
+        "versao": "2.62",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe",
+          "utility": "/Downloads/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TP-550",
+        "versao": "8.1.1.2",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe",
+          "utility": "/Downloads/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+          "manual": null
+        }
+      },
+      {
+        "modelo": "TP-620",
+        "versao": "6.1.0",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Tanca/Tanca_TP-620_Driver_v6.1.0.exe",
+          "utility": "/Downloads/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+          "manual": null
+        }
+      }
+    ],
+    "Waytec": [
+      {
+        "modelo": "WP",
+        "versao": "7.17.50",
+        "observacao": null,
+        "download": {
+          "driver_x86": null,
+          "driver_x64": "/Downloads/Waytec/Waytec_WP-100_Driver_v7.17.exe",
+          "utility": "/Downloads/Utilities/Waytec_Utility_v3.2.0.1.exe",
+          "manual": null
+        }
+      }
+    ]
+  }
+}

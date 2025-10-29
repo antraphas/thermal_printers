@@ -1,0 +1,892 @@
+{
+  "Argox": [
+    {
+      "filename": "Argox_PrinterDrivers_v2022.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Argox\\Argox_PrinterDrivers_v2022.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Argox/Argox_PrinterDrivers_v2022.1.exe",
+      "relative_path": "Argox\\Argox_PrinterDrivers_v2022.1.exe"
+    }
+  ],
+  "Bematech": [
+    {
+      "filename": "BemaSetup_LR_x32_v4.2.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BemaSetup_LR_x32_v4.2.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BemaSetup_LR_x32_v4.2.1.exe",
+      "relative_path": "Bematech\\BemaSetup_LR_x32_v4.2.1.exe"
+    },
+    {
+      "filename": "BemaSetup_LR_x64_v4.2.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BemaSetup_LR_x64_v4.2.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BemaSetup_LR_x64_v4.2.1.exe",
+      "relative_path": "Bematech\\BemaSetup_LR_x64_v4.2.1.exe"
+    },
+    {
+      "filename": "Bematech MP-4200-HS_Driver_v1.7.7.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\Bematech MP-4200-HS_Driver_v1.7.7.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/Bematech MP-4200-HS_Driver_v1.7.7.exe",
+      "relative_path": "Bematech\\Bematech MP-4200-HS_Driver_v1.7.7.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x64_v4.4.0.3.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x64_v4.4.0.3.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x64_v5.0.0.4.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x64_v5.0.0.4.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x64_v5.0.0.4.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x64_v5.0.0.4.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x64_v6.0.1.0.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x64_v6.0.1.0.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x86_v4.4.0.3.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x86_v4.4.0.3.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x86_v5.0.0.4.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x86_v5.0.0.4.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x86_v5.0.0.4.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x86_v5.0.0.4.exe"
+    },
+    {
+      "filename": "BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/BematechSpoolerDrivers_x86_v6.0.1.0.exe",
+      "relative_path": "Bematech\\BematechSpoolerDrivers_x86_v6.0.1.0.exe"
+    },
+    {
+      "filename": "Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/Bematech_MP_2800_SpoolerDrivers_v1.3.exe",
+      "relative_path": "Bematech\\Bematech_MP_2800_SpoolerDrivers_v1.3.exe"
+    },
+    {
+      "filename": "Bematech_USBCOM_v4.0.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Bematech\\Bematech_USBCOM_v4.0.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Bematech/Bematech_USBCOM_v4.0.2.exe",
+      "relative_path": "Bematech\\Bematech_USBCOM_v4.0.2.exe"
+    }
+  ],
+  "Daruma": [
+    {
+      "filename": "Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Daruma\\Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Daruma/Daruma_700_Spooler_Driver_v4.0.3.1.exe",
+      "relative_path": "Daruma\\Daruma_700_Spooler_Driver_v4.0.3.1.exe"
+    },
+    {
+      "filename": "Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Daruma\\Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Daruma/Daruma_800_Spooler_Driver_v2.0.1.7.exe",
+      "relative_path": "Daruma\\Daruma_800_Spooler_Driver_v2.0.1.7.exe"
+    }
+  ],
+  "Dascom": [
+    {
+      "filename": "Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dascom\\Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dascom/Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe",
+      "relative_path": "Dascom\\Dascom_DT-210_DT-230_Driver_v1.0.0.7.exe"
+    }
+  ],
+  "Diebold": [
+    {
+      "filename": "Diebold_IM113ID_v1.2.0.10_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Diebold\\Diebold_IM113ID_v1.2.0.10_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Diebold/Diebold_IM113ID_v1.2.0.10_x64.exe",
+      "relative_path": "Diebold\\Diebold_IM113ID_v1.2.0.10_x64.exe"
+    },
+    {
+      "filename": "Diebold_IM903TT_1.0.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Diebold\\Diebold_IM903TT_1.0.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Diebold/Diebold_IM903TT_1.0.1.exe",
+      "relative_path": "Diebold\\Diebold_IM903TT_1.0.1.exe"
+    },
+    {
+      "filename": "Diebold_Printers_v1.34_drv_1.9.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Diebold\\Diebold_Printers_v1.34_drv_1.9.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Diebold/Diebold_Printers_v1.34_drv_1.9.exe",
+      "relative_path": "Diebold\\Diebold_Printers_v1.34_drv_1.9.exe"
+    }
+  ],
+  "Dimep": [
+    {
+      "filename": "Dimep_D-PRINT_DUAL_v2.1.4.4.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dimep\\Dimep_D-PRINT_DUAL_v2.1.4.4.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dimep/Dimep_D-PRINT_DUAL_v2.1.4.4.exe",
+      "relative_path": "Dimep\\Dimep_D-PRINT_DUAL_v2.1.4.4.exe"
+    }
+  ],
+  "Dimep\\VirtualCOM": [
+    {
+      "filename": "Dimep_VirtualCOM_v1.5.0_W7_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W7_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x64.exe",
+      "relative_path": "Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W7_x64.exe"
+    },
+    {
+      "filename": "Dimep_VirtualCOM_v1.5.0_W7_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W7_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W7_x86.exe",
+      "relative_path": "Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W7_x86.exe"
+    },
+    {
+      "filename": "Dimep_VirtualCOM_v1.5.0_W8_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W8_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x64.exe",
+      "relative_path": "Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W8_x64.exe"
+    },
+    {
+      "filename": "Dimep_VirtualCOM_v1.5.0_W8_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W8_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Dimep/VirtualCOM/Dimep_VirtualCOM_v1.5.0_W8_x86.exe",
+      "relative_path": "Dimep\\VirtualCOM\\Dimep_VirtualCOM_v1.5.0_W8_x86.exe"
+    }
+  ],
+  "Elgin": [
+    {
+      "filename": "Elgin_i7_i9_v1.7.3.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Elgin_i7_i9_v1.7.3.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Elgin_i7_i9_v1.7.3.exe",
+      "relative_path": "Elgin\\Elgin_i7_i9_v1.7.3.exe"
+    },
+    {
+      "filename": "Elgin_i8_v7.1.7.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Elgin_i8_v7.1.7.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Elgin_i8_v7.1.7.exe",
+      "relative_path": "Elgin\\Elgin_i8_v7.1.7.exe"
+    },
+    {
+      "filename": "Elgin_iX_v1.02.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Elgin_iX_v1.02.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Elgin_iX_v1.02.exe",
+      "relative_path": "Elgin\\Elgin_iX_v1.02.exe"
+    },
+    {
+      "filename": "Elgin_NIX_Driver_v2.3.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Elgin_NIX_Driver_v2.3.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Elgin_NIX_Driver_v2.3.0.0.exe",
+      "relative_path": "Elgin\\Elgin_NIX_Driver_v2.3.0.0.exe"
+    },
+    {
+      "filename": "Elgin_VOX_V1.25.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Elgin_VOX_V1.25.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Elgin_VOX_V1.25.exe",
+      "relative_path": "Elgin\\Elgin_VOX_V1.25.exe"
+    },
+    {
+      "filename": "PL2303_Driver_v1.12.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\PL2303_Driver_v1.12.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/PL2303_Driver_v1.12.0.exe",
+      "relative_path": "Elgin\\PL2303_Driver_v1.12.0.exe"
+    },
+    {
+      "filename": "PL23XX_Driver_v4.0.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\PL23XX_Driver_v4.0.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/PL23XX_Driver_v4.0.2.exe",
+      "relative_path": "Elgin\\PL23XX_Driver_v4.0.2.exe"
+    },
+    {
+      "filename": "Serial_Virtual_W11_(PL2303v206).exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Elgin\\Serial_Virtual_W11_(PL2303v206).exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Elgin/Serial_Virtual_W11_(PL2303v206).exe",
+      "relative_path": "Elgin\\Serial_Virtual_W11_(PL2303v206).exe"
+    }
+  ],
+  "Epson": [
+    {
+      "filename": "Epson_TM-20X-II_Driver_v6.9.1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-20X-II_Driver_v6.9.1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-20X-II_Driver_v6.9.1.0.exe",
+      "relative_path": "Epson\\Epson_TM-20X-II_Driver_v6.9.1.0.exe"
+    },
+    {
+      "filename": "Epson_TM-70II_Driver_v4.6.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-70II_Driver_v4.6.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-70II_Driver_v4.6.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-70II_Driver_v4.6.0.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T20X_v6.1.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T20X_v6.1.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T20X_v6.1.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-T20X_v6.1.0.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T20_v5.6.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T20_v5.6.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T20_v5.6.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-T20_v5.6.0.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T81_v15.0.0.498.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T81_v15.0.0.498.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T81_v15.0.0.498.exe",
+      "relative_path": "Epson\\Epson_TM-T81_v15.0.0.498.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_III_v4.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_III_v4.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_III_v4.exe",
+      "relative_path": "Epson\\Epson_TM-T88_III_v4.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_III_VirtualPort.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_III_VirtualPort.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_III_VirtualPort.exe",
+      "relative_path": "Epson\\Epson_TM-T88_III_VirtualPort.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_IV_4.0.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_IV_4.0.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_IV_4.0.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-T88_IV_4.0.0.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_VII_Driver_v6.7.1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_VII_Driver_v6.7.1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_VII_Driver_v6.7.1.0.exe",
+      "relative_path": "Epson\\Epson_TM-T88_VII_Driver_v6.7.1.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_VI_v5.11.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_VI_v5.11.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_VI_v5.11.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-T88_VI_v5.11.0.0.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_V_v5.6.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\Epson_TM-T88_V_v5.6.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/Epson_TM-T88_V_v5.6.0.0.exe",
+      "relative_path": "Epson\\Epson_TM-T88_V_v5.6.0.0.exe"
+    },
+    {
+      "filename": "TMVirtualPortDriver870a.zip",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Epson\\TMVirtualPortDriver870a.zip",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Epson/TMVirtualPortDriver870a.zip",
+      "relative_path": "Epson\\TMVirtualPortDriver870a.zip"
+    }
+  ],
+  "Feasso": [
+    {
+      "filename": "Feasso F-IMTER 03.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Feasso\\Feasso F-IMTER 03.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Feasso/Feasso F-IMTER 03.pdf",
+      "relative_path": "Feasso\\Feasso F-IMTER 03.pdf"
+    },
+    {
+      "filename": "Feasso F-IMTER01.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Feasso\\Feasso F-IMTER01.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Feasso/Feasso F-IMTER01.pdf",
+      "relative_path": "Feasso\\Feasso F-IMTER01.pdf"
+    },
+    {
+      "filename": "Feasso F-IMTER02.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Feasso\\Feasso F-IMTER02.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Feasso/Feasso F-IMTER02.pdf",
+      "relative_path": "Feasso\\Feasso F-IMTER02.pdf"
+    },
+    {
+      "filename": "Feasso_F-IMTER-01_Driver_v1.7.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Feasso\\Feasso_F-IMTER-01_Driver_v1.7.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Feasso/Feasso_F-IMTER-01_Driver_v1.7.exe",
+      "relative_path": "Feasso\\Feasso_F-IMTER-01_Driver_v1.7.exe"
+    },
+    {
+      "filename": "Feasso_F-IMTER-02_Driver_v2.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Feasso\\Feasso_F-IMTER-02_Driver_v2.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Feasso/Feasso_F-IMTER-02_Driver_v2.0.exe",
+      "relative_path": "Feasso\\Feasso_F-IMTER-02_Driver_v2.0.exe"
+    }
+  ],
+  "Gainscha": [
+    {
+      "filename": "Gainscha_GPrinterDrivers_v2020.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Gainscha\\Gainscha_GPrinterDrivers_v2020.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Gainscha/Gainscha_GPrinterDrivers_v2020.1.exe",
+      "relative_path": "Gainscha\\Gainscha_GPrinterDrivers_v2020.1.exe"
+    }
+  ],
+  "Gertec": [
+    {
+      "filename": "Driver-G250-Spooler_VCOM-v1.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Gertec\\Driver-G250-Spooler_VCOM-v1.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Gertec/Driver-G250-Spooler_VCOM-v1.1.exe",
+      "relative_path": "Gertec\\Driver-G250-Spooler_VCOM-v1.1.exe"
+    }
+  ],
+  "Jetway": [
+    {
+      "filename": "Jetway_JMP-100_Driver_v2.61J.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Jetway\\Jetway_JMP-100_Driver_v2.61J.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Jetway/Jetway_JMP-100_Driver_v2.61J.exe",
+      "relative_path": "Jetway\\Jetway_JMP-100_Driver_v2.61J.exe"
+    },
+    {
+      "filename": "Jetway_JP-500_Printer_Driver_v7.17.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Jetway\\Jetway_JP-500_Printer_Driver_v7.17.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Jetway/Jetway_JP-500_Printer_Driver_v7.17.exe",
+      "relative_path": "Jetway\\Jetway_JP-500_Printer_Driver_v7.17.exe"
+    },
+    {
+      "filename": "Jetway_JP-800_PrinterDriver_v2.38E.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Jetway\\Jetway_JP-800_PrinterDriver_v2.38E.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Jetway/Jetway_JP-800_PrinterDriver_v2.38E.exe",
+      "relative_path": "Jetway\\Jetway_JP-800_PrinterDriver_v2.38E.exe"
+    }
+  ],
+  "Ledtec": [
+    {
+      "filename": "ENGWORKSPrinters_Win8_10_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Ledtec\\ENGWORKSPrinters_Win8_10_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Ledtec/ENGWORKSPrinters_Win8_10_x64.exe",
+      "relative_path": "Ledtec\\ENGWORKSPrinters_Win8_10_x64.exe"
+    },
+    {
+      "filename": "ENGWORKS_Printers_Win7_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Ledtec\\ENGWORKS_Printers_Win7_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Ledtec/ENGWORKS_Printers_Win7_x64.exe",
+      "relative_path": "Ledtec\\ENGWORKS_Printers_Win7_x64.exe"
+    },
+    {
+      "filename": "ENGWORKS_Printers_Win7_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Ledtec\\ENGWORKS_Printers_Win7_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Ledtec/ENGWORKS_Printers_Win7_x86.exe",
+      "relative_path": "Ledtec\\ENGWORKS_Printers_Win7_x86.exe"
+    },
+    {
+      "filename": "ENGWORKS_Printers_Win8_10_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Ledtec\\ENGWORKS_Printers_Win8_10_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Ledtec/ENGWORKS_Printers_Win8_10_x86.exe",
+      "relative_path": "Ledtec\\ENGWORKS_Printers_Win8_10_x86.exe"
+    }
+  ],
+  "Manuals": [
+    {
+      "filename": "Bematech MP-100S.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-100S.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-100S.pdf",
+      "relative_path": "Manuals\\Bematech MP-100S.pdf"
+    },
+    {
+      "filename": "Bematech MP-2500.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-2500.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-2500.pdf",
+      "relative_path": "Manuals\\Bematech MP-2500.pdf"
+    },
+    {
+      "filename": "Bematech MP-2800.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-2800.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-2800.pdf",
+      "relative_path": "Manuals\\Bematech MP-2800.pdf"
+    },
+    {
+      "filename": "Bematech MP-4000.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-4000.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-4000.pdf",
+      "relative_path": "Manuals\\Bematech MP-4000.pdf"
+    },
+    {
+      "filename": "Bematech MP-4200 HS.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-4200 HS.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-4200 HS.pdf",
+      "relative_path": "Manuals\\Bematech MP-4200 HS.pdf"
+    },
+    {
+      "filename": "Bematech MP-4200.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-4200.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-4200.pdf",
+      "relative_path": "Manuals\\Bematech MP-4200.pdf"
+    },
+    {
+      "filename": "Bematech MP-5100.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech MP-5100.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech MP-5100.pdf",
+      "relative_path": "Manuals\\Bematech MP-5100.pdf"
+    },
+    {
+      "filename": "Bematech PP-10.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech PP-10.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech PP-10.pdf",
+      "relative_path": "Manuals\\Bematech PP-10.pdf"
+    },
+    {
+      "filename": "Bematech_LR1100_Manual.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech_LR1100_Manual.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech_LR1100_Manual.pdf",
+      "relative_path": "Manuals\\Bematech_LR1100_Manual.pdf"
+    },
+    {
+      "filename": "Bematech_LR2000_Manual.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Bematech_LR2000_Manual.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Bematech_LR2000_Manual.pdf",
+      "relative_path": "Manuals\\Bematech_LR2000_Manual.pdf"
+    },
+    {
+      "filename": "Control iD Print iD Touch.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Control iD Print iD Touch.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Control iD Print iD Touch.pdf",
+      "relative_path": "Manuals\\Control iD Print iD Touch.pdf"
+    },
+    {
+      "filename": "Control iD Print iD.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Control iD Print iD.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Control iD Print iD.pdf",
+      "relative_path": "Manuals\\Control iD Print iD.pdf"
+    },
+    {
+      "filename": "Daruma DR700.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Daruma DR700.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Daruma DR700.pdf",
+      "relative_path": "Manuals\\Daruma DR700.pdf"
+    },
+    {
+      "filename": "Daruma DR800.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Daruma DR800.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Daruma DR800.pdf",
+      "relative_path": "Manuals\\Daruma DR800.pdf"
+    },
+    {
+      "filename": "Daruma FS700.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Daruma FS700.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Daruma FS700.pdf",
+      "relative_path": "Manuals\\Daruma FS700.pdf"
+    },
+    {
+      "filename": "Daruma FS800.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Daruma FS800.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Daruma FS800.pdf",
+      "relative_path": "Manuals\\Daruma FS800.pdf"
+    },
+    {
+      "filename": "Dascom_DT-230.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Dascom_DT-230.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Dascom_DT-230.pdf",
+      "relative_path": "Manuals\\Dascom_DT-230.pdf"
+    },
+    {
+      "filename": "Diebold Mecaf Perfecta.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Diebold Mecaf Perfecta.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Diebold Mecaf Perfecta.pdf",
+      "relative_path": "Manuals\\Diebold Mecaf Perfecta.pdf"
+    },
+    {
+      "filename": "Elgin i7.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Elgin i7.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Elgin i7.pdf",
+      "relative_path": "Manuals\\Elgin i7.pdf"
+    },
+    {
+      "filename": "Elgin i8.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Elgin i8.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Elgin i8.pdf",
+      "relative_path": "Manuals\\Elgin i8.pdf"
+    },
+    {
+      "filename": "Elgin i9.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Elgin i9.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Elgin i9.pdf",
+      "relative_path": "Manuals\\Elgin i9.pdf"
+    },
+    {
+      "filename": "Elgin VOX+.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Elgin VOX+.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Elgin VOX+.pdf",
+      "relative_path": "Manuals\\Elgin VOX+.pdf"
+    },
+    {
+      "filename": "Elgin VOX.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Elgin VOX.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Elgin VOX.pdf",
+      "relative_path": "Manuals\\Elgin VOX.pdf"
+    },
+    {
+      "filename": "Gertec G250.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Gertec G250.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Gertec G250.pdf",
+      "relative_path": "Manuals\\Gertec G250.pdf"
+    },
+    {
+      "filename": "Jetway JMP-100.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Jetway JMP-100.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Jetway JMP-100.pdf",
+      "relative_path": "Manuals\\Jetway JMP-100.pdf"
+    },
+    {
+      "filename": "Jetway JP-500.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Jetway JP-500.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Jetway JP-500.pdf",
+      "relative_path": "Manuals\\Jetway JP-500.pdf"
+    },
+    {
+      "filename": "Jetway JP-800.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Jetway JP-800.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Jetway JP-800.pdf",
+      "relative_path": "Manuals\\Jetway JP-800.pdf"
+    },
+    {
+      "filename": "Perto PertoPrinter.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Perto PertoPrinter.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Perto PertoPrinter.pdf",
+      "relative_path": "Manuals\\Perto PertoPrinter.pdf"
+    },
+    {
+      "filename": "Sweda SI-150.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Sweda SI-150.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Sweda SI-150.pdf",
+      "relative_path": "Manuals\\Sweda SI-150.pdf"
+    },
+    {
+      "filename": "Sweda SI-250.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Sweda SI-250.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Sweda SI-250.pdf",
+      "relative_path": "Manuals\\Sweda SI-250.pdf"
+    },
+    {
+      "filename": "Sweda SI-300-L-S-W.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Sweda SI-300-L-S-W.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Sweda SI-300-L-S-W.pdf",
+      "relative_path": "Manuals\\Sweda SI-300-L-S-W.pdf"
+    },
+    {
+      "filename": "Waytec_WP-100.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Waytec_WP-100.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Waytec_WP-100.pdf",
+      "relative_path": "Manuals\\Waytec_WP-100.pdf"
+    },
+    {
+      "filename": "Waytec_WP-50.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Manuals\\Waytec_WP-50.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Manuals/Waytec_WP-50.pdf",
+      "relative_path": "Manuals\\Waytec_WP-50.pdf"
+    }
+  ],
+  "Menno": [
+    {
+      "filename": "Menno_Printer_Driver_v2.52.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Menno\\Menno_Printer_Driver_v2.52.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Menno/Menno_Printer_Driver_v2.52.exe",
+      "relative_path": "Menno\\Menno_Printer_Driver_v2.52.exe"
+    }
+  ],
+  "PertoPrinter": [
+    {
+      "filename": "PertoPrinter_Driver_2.5.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\PertoPrinter\\PertoPrinter_Driver_2.5.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/PertoPrinter/PertoPrinter_Driver_2.5.exe",
+      "relative_path": "PertoPrinter\\PertoPrinter_Driver_2.5.exe"
+    }
+  ],
+  "POS": [
+    {
+      "filename": "POS_Printer_Driver_Setup_v11.3.0.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\POS\\POS_Printer_Driver_Setup_v11.3.0.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/POS/POS_Printer_Driver_Setup_v11.3.0.0.exe",
+      "relative_path": "POS\\POS_Printer_Driver_Setup_v11.3.0.0.exe"
+    }
+  ],
+  "PrintID": [
+    {
+      "filename": "Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\PrintID\\Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/PrintID/Print_iD_&_Print_iD_Touch_v1.1.10.2.exe",
+      "relative_path": "PrintID\\Print_iD_&_Print_iD_Touch_v1.1.10.2.exe"
+    }
+  ],
+  "Star": [
+    {
+      "filename": "Star_BSC10_Drivers_v2.1_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_BSC10_Drivers_v2.1_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_BSC10_Drivers_v2.1_x64.exe",
+      "relative_path": "Star\\Star_BSC10_Drivers_v2.1_x64.exe"
+    },
+    {
+      "filename": "Star_BSC10_Drivers_v2.1_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_BSC10_Drivers_v2.1_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_BSC10_Drivers_v2.1_x86.exe",
+      "relative_path": "Star\\Star_BSC10_Drivers_v2.1_x86.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_TSP043_x64_v2.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_TSP043_x64_v2.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_TSP043_x64_v2.1.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_TSP043_x64_v2.1.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_TSP043_x86_v2.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_TSP043_x86_v2.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_TSP043_x86_v2.1.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_TSP043_x86_v2.1.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_x64_v3.1.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_x64_v3.1.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_x64_v3.1.1.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_x64_v3.1.1.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_x64_v3.7.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_x64_v3.7.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_x64_v3.7.2.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_x64_v3.7.2.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_x86_v3.1.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_x86_v3.1.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_x86_v3.1.1.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_x86_v3.1.1.exe"
+    },
+    {
+      "filename": "Star_PrinterDrivers_x86_v3.7.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Star\\Star_PrinterDrivers_x86_v3.7.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Star/Star_PrinterDrivers_x86_v3.7.2.exe",
+      "relative_path": "Star\\Star_PrinterDrivers_x86_v3.7.2.exe"
+    }
+  ],
+  "Sweda": [
+    {
+      "filename": "Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Sweda\\Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Sweda/Sweda_SI-150_SI-250_Drivers_v1.001.exe",
+      "relative_path": "Sweda\\Sweda_SI-150_SI-250_Drivers_v1.001.exe"
+    },
+    {
+      "filename": "Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Sweda\\Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Sweda/Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe",
+      "relative_path": "Sweda\\Sweda_SI-300_SI-300E_SI-300W_v1.2.0.exe"
+    }
+  ],
+  "Tanca": [
+    {
+      "filename": "Tanca_TMP-500_v2.61T.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Tanca\\Tanca_TMP-500_v2.61T.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Tanca/Tanca_TMP-500_v2.61T.exe",
+      "relative_path": "Tanca\\Tanca_TMP-500_v2.61T.exe"
+    },
+    {
+      "filename": "Tanca_TP-450_Driver_v2.29E.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Tanca\\Tanca_TP-450_Driver_v2.29E.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Tanca/Tanca_TP-450_Driver_v2.29E.exe",
+      "relative_path": "Tanca\\Tanca_TP-450_Driver_v2.29E.exe"
+    },
+    {
+      "filename": "Tanca_TP-509_DriverInstall_v2.62.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Tanca\\Tanca_TP-509_DriverInstall_v2.62.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Tanca/Tanca_TP-509_DriverInstall_v2.62.exe",
+      "relative_path": "Tanca\\Tanca_TP-509_DriverInstall_v2.62.exe"
+    },
+    {
+      "filename": "Tanca_TP-550_Printer_Driver_v8.1.1.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Tanca\\Tanca_TP-550_Printer_Driver_v8.1.1.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Tanca/Tanca_TP-550_Printer_Driver_v8.1.1.2.exe",
+      "relative_path": "Tanca\\Tanca_TP-550_Printer_Driver_v8.1.1.2.exe"
+    },
+    {
+      "filename": "Tanca_TP-620_Driver_v6.1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Tanca\\Tanca_TP-620_Driver_v6.1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Tanca/Tanca_TP-620_Driver_v6.1.0.exe",
+      "relative_path": "Tanca\\Tanca_TP-620_Driver_v6.1.0.exe"
+    }
+  ],
+  "Universal_Installer\\Output": [
+    {
+      "filename": "Instalar_Impressora_0.9.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Universal_Installer\\Output\\Instalar_Impressora_0.9.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Universal_Installer/Output/Instalar_Impressora_0.9.2.exe",
+      "relative_path": "Universal_Installer\\Output\\Instalar_Impressora_0.9.2.exe"
+    }
+  ],
+  "Utilities": [
+    {
+      "filename": "BemaGhost_v1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\BemaGhost_v1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/BemaGhost_v1.0.exe",
+      "relative_path": "Utilities\\BemaGhost_v1.0.exe"
+    },
+    {
+      "filename": "Bematech_LR_IP_setting.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Bematech_LR_IP_setting.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Bematech_LR_IP_setting.exe",
+      "relative_path": "Utilities\\Bematech_LR_IP_setting.exe"
+    },
+    {
+      "filename": "Bematech_MP-2800_TH_Utility_v1.4.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Bematech_MP-2800_TH_Utility_v1.4.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Bematech_MP-2800_TH_Utility_v1.4.exe",
+      "relative_path": "Utilities\\Bematech_MP-2800_TH_Utility_v1.4.exe"
+    },
+    {
+      "filename": "Bematech_Utility_v2.10.04_x64.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Bematech_Utility_v2.10.04_x64.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Bematech_Utility_v2.10.04_x64.exe",
+      "relative_path": "Utilities\\Bematech_Utility_v2.10.04_x64.exe"
+    },
+    {
+      "filename": "Bematech_Utility_v2.9.13_x86.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Bematech_Utility_v2.9.13_x86.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Bematech_Utility_v2.9.13_x86.exe",
+      "relative_path": "Utilities\\Bematech_Utility_v2.9.13_x86.exe"
+    },
+    {
+      "filename": "Daruma_Utility_v2.20.9.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Daruma_Utility_v2.20.9.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Daruma_Utility_v2.20.9.exe",
+      "relative_path": "Utilities\\Daruma_Utility_v2.20.9.exe"
+    },
+    {
+      "filename": "Diebold_Ativar_Guilhotina.pdf",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Diebold_Ativar_Guilhotina.pdf",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Diebold_Ativar_Guilhotina.pdf",
+      "relative_path": "Utilities\\Diebold_Ativar_Guilhotina.pdf"
+    },
+    {
+      "filename": "Elgin_i7-i8_Utility_v3.2.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Elgin_i7-i8_Utility_v3.2.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Elgin_i7-i8_Utility_v3.2.exe",
+      "relative_path": "Utilities\\Elgin_i7-i8_Utility_v3.2.exe"
+    },
+    {
+      "filename": "Elgin_i9_Utility_v1.2.2.24.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Elgin_i9_Utility_v1.2.2.24.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Elgin_i9_Utility_v1.2.2.24.exe",
+      "relative_path": "Utilities\\Elgin_i9_Utility_v1.2.2.24.exe"
+    },
+    {
+      "filename": "Epson_NetConfig_v4_9_5.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Epson_NetConfig_v4_9_5.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Epson_NetConfig_v4_9_5.exe",
+      "relative_path": "Utilities\\Epson_NetConfig_v4_9_5.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_VI_Bluetooth_Connector.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Epson_TM-T88_VI_Bluetooth_Connector.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Epson_TM-T88_VI_Bluetooth_Connector.exe",
+      "relative_path": "Utilities\\Epson_TM-T88_VI_Bluetooth_Connector.exe"
+    },
+    {
+      "filename": "Epson_TM-T88_V_Bluetooth_Connector.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Epson_TM-T88_V_Bluetooth_Connector.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Epson_TM-T88_V_Bluetooth_Connector.exe",
+      "relative_path": "Utilities\\Epson_TM-T88_V_Bluetooth_Connector.exe"
+    },
+    {
+      "filename": "Jetway_JMP-100_PrinterTool.zip",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JMP-100_PrinterTool.zip",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JMP-100_PrinterTool.zip",
+      "relative_path": "Utilities\\Jetway_JMP-100_PrinterTool.zip"
+    },
+    {
+      "filename": "Jetway_JMP-100_USB_Serial.zip",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JMP-100_USB_Serial.zip",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JMP-100_USB_Serial.zip",
+      "relative_path": "Utilities\\Jetway_JMP-100_USB_Serial.zip"
+    },
+    {
+      "filename": "Jetway_JP-500_Driver_USB_Serial.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JP-500_Driver_USB_Serial.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JP-500_Driver_USB_Serial.exe",
+      "relative_path": "Utilities\\Jetway_JP-500_Driver_USB_Serial.exe"
+    },
+    {
+      "filename": "Jetway_JP-500_PrinterTest.zip",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JP-500_PrinterTest.zip",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JP-500_PrinterTest.zip",
+      "relative_path": "Utilities\\Jetway_JP-500_PrinterTest.zip"
+    },
+    {
+      "filename": "Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe",
+      "relative_path": "Utilities\\Jetway_JP-800_PL23XX-M_LogoDriver_Setup.exe"
+    },
+    {
+      "filename": "Jetway_JP-800_PrinterTool.zip",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Jetway_JP-800_PrinterTool.zip",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Jetway_JP-800_PrinterTool.zip",
+      "relative_path": "Utilities\\Jetway_JP-800_PrinterTool.zip"
+    },
+    {
+      "filename": "Menno_PrinterTool_v1.56.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Menno_PrinterTool_v1.56.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Menno_PrinterTool_v1.56.exe",
+      "relative_path": "Utilities\\Menno_PrinterTool_v1.56.exe"
+    },
+    {
+      "filename": "POS_Utilities.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\POS_Utilities.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/POS_Utilities.exe",
+      "relative_path": "Utilities\\POS_Utilities.exe"
+    },
+    {
+      "filename": "PrintID_Utility_v1.0.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\PrintID_Utility_v1.0.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/PrintID_Utility_v1.0.exe",
+      "relative_path": "Utilities\\PrintID_Utility_v1.0.exe"
+    },
+    {
+      "filename": "Sweda_Utility_v1.524.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Sweda_Utility_v1.524.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Sweda_Utility_v1.524.exe",
+      "relative_path": "Utilities\\Sweda_Utility_v1.524.exe"
+    },
+    {
+      "filename": "Sweda_Utility_v2.03.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Sweda_Utility_v2.03.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Sweda_Utility_v2.03.exe",
+      "relative_path": "Utilities\\Sweda_Utility_v2.03.exe"
+    },
+    {
+      "filename": "Tanca_TP-509_PrinterTool_v2.22.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Tanca_TP-509_PrinterTool_v2.22.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Tanca_TP-509_PrinterTool_v2.22.exe",
+      "relative_path": "Utilities\\Tanca_TP-509_PrinterTool_v2.22.exe"
+    },
+    {
+      "filename": "Tanca_TP-550_PrinterTool.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Tanca_TP-550_PrinterTool.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Tanca_TP-550_PrinterTool.exe",
+      "relative_path": "Utilities\\Tanca_TP-550_PrinterTool.exe"
+    },
+    {
+      "filename": "Tanca_TP-620_Utility_v3.2.0.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Tanca_TP-620_Utility_v3.2.0.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Tanca_TP-620_Utility_v3.2.0.1.exe",
+      "relative_path": "Utilities\\Tanca_TP-620_Utility_v3.2.0.1.exe"
+    },
+    {
+      "filename": "Tanca_TP-650_PrinterTool_1.48E.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Tanca_TP-650_PrinterTool_1.48E.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Tanca_TP-650_PrinterTool_1.48E.exe",
+      "relative_path": "Utilities\\Tanca_TP-650_PrinterTool_1.48E.exe"
+    },
+    {
+      "filename": "Waytec_Utility_v3.2.0.1.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Utilities\\Waytec_Utility_v3.2.0.1.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Utilities/Waytec_Utility_v3.2.0.1.exe",
+      "relative_path": "Utilities\\Waytec_Utility_v3.2.0.1.exe"
+    }
+  ],
+  "Waytec": [
+    {
+      "filename": "Waytec_WP-100_Driver_v7.17.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Waytec\\Waytec_WP-100_Driver_v7.17.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Waytec/Waytec_WP-100_Driver_v7.17.exe",
+      "relative_path": "Waytec\\Waytec_WP-100_Driver_v7.17.exe"
+    },
+    {
+      "filename": "WayTec_WP-50_Driver_v7.17.50.exe",
+      "local_path": "c:\\Users\\raphael.suarez_anota\\Documents\\impressoras\\thermal_printers\\Waytec\\WayTec_WP-50_Driver_v7.17.50.exe",
+      "local_link": "file:///c:/Users/raphael.suarez_anota/Documents/impressoras/thermal_printers/Waytec/WayTec_WP-50_Driver_v7.17.50.exe",
+      "relative_path": "Waytec\\WayTec_WP-50_Driver_v7.17.50.exe"
+    }
+  ]
+}
